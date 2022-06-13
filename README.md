@@ -8,7 +8,7 @@ A small app for publishing posts and comments using micro services
 
 - Node.js 
 - React
-- BootStrap
+- Bootstrap
 
 ## How to run
 - Install dependencies for both services and client
